@@ -1,0 +1,3 @@
+mv -Force "first.txt" .\files
+mv -Force "second.txt" .\files
+mv -Force "third.txt" .\files

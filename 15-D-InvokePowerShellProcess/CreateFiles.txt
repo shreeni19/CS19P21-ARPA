@@ -1,0 +1,3 @@
+echo "This is the content in first file" > first.txt
+echo "This is the content in first file" > second.txt
+echo "This is the content in first file" > third.txt

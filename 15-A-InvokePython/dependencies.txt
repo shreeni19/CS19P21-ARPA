@@ -1,0 +1,3 @@
+C:\Users\Sivashankar\AppData\Local\Programs\Python\Python311
+
+C:\Users\Sivashankar\AppData\Local\Programs\Python\Python311\python3.dll
